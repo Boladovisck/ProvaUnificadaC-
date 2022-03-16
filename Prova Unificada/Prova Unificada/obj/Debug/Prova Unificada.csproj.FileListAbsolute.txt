@@ -1,0 +1,9 @@
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\bin\Debug\Prova Unificada.exe.config
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\bin\Debug\Prova Unificada.exe
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\bin\Debug\Prova Unificada.pdb
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\obj\Debug\Prova Unificada.csprojResolveAssemblyReference.cache
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\obj\Debug\Prova_Unificada.Properties.Resources.resources
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\obj\Debug\Prova_Unificada.LoginForm.resources
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\obj\Debug\Prova Unificada.csproj.GenerateResource.Cache
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\obj\Debug\Prova Unificada.exe
+\\servidor\PUBLICO\ALUNOS MESSEJANA\JOÃO VITOR PINHEIRO NASCIMENTO\ProvaC#\Prova Unificada\Prova Unificada\obj\Debug\Prova Unificada.pdb
